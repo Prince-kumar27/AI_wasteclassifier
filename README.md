@@ -35,6 +35,24 @@ An example of the output showing the waste type and its recommended bin:
 Before running the project, ensure you have the following installed:
 
 - Python 3.7 or higher
-- Required Python libraries:
-  ```bash
-  pip install opencv-python-headless cvzone pillow
+
+## How It Works
+- **Load Waste Image:** Browse and select a waste image through the GUI.
+- **AI Model Prediction:** The selected image is processed by the AI model to classify the waste type.
+### **Visualize Output:**
+- Displays the selected waste type image.
+- Shows the recommended bin overlayed on a background image.
+
+
+## Future Enhancements:
+- **Expand Dataset:** Train the model with a larger and more diverse dataset for better accuracy.
+- **Real-Time Classification:** Integrate webcam support for real-time waste classification.
+- **Mobile Version:** Build a mobile application for on-the-go waste classification.
+- **Multi-Language Support:** Add localization for a global audience.
+
+
+## Access the Code
+
+You can view and download the complete code [here](https://github.com/your_username/your_repository/main.py).
+
+
