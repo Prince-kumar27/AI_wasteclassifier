@@ -18,12 +18,15 @@ This project is a **Waste Classification System** that leverages machine learnin
 ### GUI Interface
 The graphical user interface where users can upload and classify waste images:
 
-![GUI Interface](assets/gui_interface.png)
+![GUI Interface](https://github.com/user-attachments/assets/503ee77c-c1a6-48a7-be63-b4ecc16507b6)
+
+
 
 ### Classification Output
 An example of the output showing the waste type and its recommended bin:
 
-![Output Example](assets/output_example.png)
+![Output Example](https://github.com/user-attachments/assets/1b00a446-a51c-4fbe-905f-619ef8f521f5)
+
 
 ---
 
