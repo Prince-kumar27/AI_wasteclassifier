@@ -53,6 +53,5 @@ Before running the project, ensure you have the following installed:
 
 ## Access the Code
 
-You can view and download the complete code [here](https://github.com/your_username/your_repository/main.py).
-
+You can view and download the complete code [here](https://github.com/Prince-kumar27/AI_wasteclassifier/blob/main/demo.py)
 
